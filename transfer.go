@@ -9,7 +9,7 @@ import (
 	"bytes"
 	"errors"
 	"fmt"
-	"github.com/pristine/ghttp/internal"
+	"github.com/divinedev111/ghttp/internal"
 	"io"
 	"io/ioutil"
 	"net/http"
