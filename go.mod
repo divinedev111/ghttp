@@ -1,4 +1,4 @@
-module github.com/pristine/ghttp
+module github.com/divinedev111/ghttp
 
 go 1.16
 
