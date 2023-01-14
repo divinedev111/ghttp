@@ -4,7 +4,7 @@ import (
 	"crypto/sha256"
 	"encoding/hex"
 	"fmt"
-	"github.com/pristine/ghttp/internal"
+	"github.com/divinedev111/ghttp/internal"
 	"net"
 	"net/url"
 	"strconv"
